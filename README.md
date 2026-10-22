@@ -20,5 +20,7 @@ Permite la navegación fluida entre distintas secciones sin recargar la página 
 - **Git & GitHub** (Control de versiones y alojamiento de código)
 
 ---
+## enlace de mi repositorio
 
+https://github.com/lisandropaz/tp2-portfolio-lisandro-sosapaz-com7
  
