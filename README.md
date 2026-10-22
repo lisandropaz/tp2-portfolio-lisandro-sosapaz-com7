@@ -6,7 +6,7 @@
 ## Descripción del Proyecto
 
 Este proyecto es la evolución del TP1, transformando la estructura estática en una **aplicación web multipágina dinámica** mediante la integración de **React Router DOM**. 
-Permite la navegación fluida entre distintas secciones sin recargar la página (*Single Page Application*), organizando el código en componentes reutilizables, manejando estados locales interactivos y renderizando listas de forma dinámica.
+Permite la navegación fluida entre distintas secciones sin recargar la página, organizando el código en componentes reutilizables, manejando estados locales interactivos y renderizando listas de forma dinámica.
 
 ---
 
